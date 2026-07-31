@@ -2,6 +2,5 @@ streamlit
 langchain_huggingface
 python-dotenv
 pandas
-openypxl
 huggingface_hub
 
