@@ -1,5 +1,5 @@
 streamlit
-langchain-huggingface
+langchain_huggingface
 python-dotenv
 pandas
 openypxl
