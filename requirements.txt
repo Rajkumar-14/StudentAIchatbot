@@ -1,5 +1,6 @@
-pip install langchain-huggingface
-pip install python-dotenv
-pip install pandas
-pip installopenypxl
-pip installhuggingface_hub
+langchain-huggingface
+python-dotenv
+pandas
+openypxl
+huggingface_hub
+streamlit
