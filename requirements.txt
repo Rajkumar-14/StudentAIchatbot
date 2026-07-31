@@ -1,6 +1,6 @@
-langchain-huggingface
-python-dotenv
-pandas
-openypxl
-huggingface_hub
-streamlit
+pip install langchain-huggingface
+pip install python-dotenv
+pip install pandas
+pip install openypxl
+pip install huggingface_hub
+pip install streamlit
