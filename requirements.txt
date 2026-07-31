@@ -1,0 +1,5 @@
+pip install langchain-huggingface
+pip install python-dotenv
+pip install pandas
+pip installopenypxl
+pip installhuggingface_hub
